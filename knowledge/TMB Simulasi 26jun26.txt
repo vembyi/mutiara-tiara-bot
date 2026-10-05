@@ -1,0 +1,316 @@
+SIMULASI PEMBAYARAN
+BIRCH-6 (6 X 15)
+Pricelist 26 Juni 2026
+CASH KERAS
+KPR
+4,39% bunga KPR p.a
+5 thn
+32.000.136
+10 thn 17.745.893
+15 thn 13.069.606
+20 thn 10.786.482
+12x
+11x
+163.055.855
+18x
+17x
+110.411.268
+24x
+23x
+84.129.860
+ELM-8 (8 X 15)
+CASH KERAS
+KPR
+4,39% bunga KPR p.a
+5 thn
+40.499.228
+10 thn 22.459.122
+15 thn 16.540.834
+20 thn 13.651.323
+12x
+11x
+206.362.783
+18x
+17x
+139.736.050
+24x
+23x
+106.474.391
+CEDAR-10 STD (10 X 15)
+CASH KERAS
+KPR
+4,39% bunga KPR p.a
+5 thn
+50.491.706
+10 thn 28.000.519
+15 thn 20.621.997
+20 thn 17.019.549
+12x
+11x
+257.279.130
+18x
+17x
+174.213.452
+24x
+23x
+132.745.085
+CEDAR-10 HOOK (10 X 15)
+CASH KERAS
+KPR
+4,39% bunga KPR p.a
+5 thn
+57.510.452
+10 thn 31.892.812
+15 thn 23.488.617
+20 thn 19.385.401
+12x
+11x
+293.042.960
+18x
+17x
+198.430.507
+24x
+23x
+151.197.725
+CEDAR-10 HOOK (11 X 15)
+CASH KERAS
+KPR
+4,39% bunga KPR p.a
+5 thn
+57.510.452
+10 thn 31.892.812
+15 thn 23.488.617
+20 thn 19.385.401
+12x
+11x
+293.042.960
+18x
+17x
+198.430.507
+24x
+23x
+151.197.725
+BANYAN-10 (10 X 20)
+CASH KERAS
+KPR
+4,39% bunga KPR p.a
+5 thn
+74.957.153
+10 thn 41.567.999
+15 thn 30.614.259
+20 thn 25.266.268
+12x
+11x
+381.942.120
+18x
+17x
+258.627.533
+24x
+23x
+197.065.885
+ED
+1.897.969.543
+25.000.000
+923.984.772
+948.984.772
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP-1 (50%-BF)
+Pelunasan (50%)
+1.912.312.440
+25.000.000
+166.231.244
+1.721.081.196
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP (10%-BF)
+Plafon KPR
+BERTAHAP
+2.402.061.904
+25.000.000
+1.176.030.952
+1.201.030.952
+1.987.402.830
+25.000.000
+85.411.268
+1.876.991.562
+2.019.116.640
+25.000.000
+59.129.860
+1.934.986.780
+Harga Pricelist (incl. PPN)
+Booking Fee
+Down Payment
+Sisa Pembayaran
+Angsuran
+1.956.670.260
+25.000.000
+138.055.855
+1.793.614.405
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP-1 (50%-BF)
+Pelunasan (50%)
+2.420.214.030
+25.000.000
+217.021.403
+2.178.192.627
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP (10%-BF)
+Plafon KPR
+BERTAHAP
+Harga Pricelist (incl. PPN)
+Booking Fee
+Down Payment
+Sisa Pembayaran
+Angsuran
+2.476.353.390
+25.000.000
+181.362.783
+2.269.990.608
+2.515.248.900
+25.000.000
+114.736.050
+2.375.512.850
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP-1 (50%-BF)
+Pelunasan (50%)
+2.555.385.390
+25.000.000
+81.474.391
+2.448.910.999
+2.994.728.707
+25.000.000
+1.472.364.354
+1.497.364.354
+Angsuran
+3.017.359.620
+25.000.000
+276.735.962
+2.715.623.658
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP (10%-BF)
+Plafon KPR
+3.087.349.560
+25.000.000
+232.279.130
+2.830.070.430
+3.135.842.130
+25.000.000
+149.213.452
+2.961.628.678
+BERTAHAP
+Harga Pricelist (incl. PPN)
+Booking Fee
+Down Payment
+Sisa Pembayaran
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP-1 (50%-BF)
+Pelunasan (50%)
+3.185.882.040
+25.000.000
+107.745.085
+3.053.136.955
+3.411.019.737
+25.000.000
+1.680.509.869
+1.705.509.869
+Angsuran
+3.436.796.430
+25.000.000
+318.679.643
+3.093.116.787
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP (10%-BF)
+Plafon KPR
+3.516.515.520
+25.000.000
+268.042.960
+3.223.472.560
+3.571.749.120
+25.000.000
+173.430.507
+3.373.318.613
+BERTAHAP
+Harga Pricelist (incl. PPN)
+Booking Fee
+Down Payment
+Sisa Pembayaran
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP-1 (50%-BF)
+Pelunasan (50%)
+3.628.745.400
+25.000.000
+126.197.725
+3.477.547.675
+3.411.019.737
+25.000.000
+1.680.509.869
+1.705.509.869
+Angsuran
+3.436.796.430
+25.000.000
+318.679.643
+3.093.116.787
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP (10%-BF)
+Plafon KPR
+3.516.515.520
+25.000.000
+268.042.960
+3.223.472.560
+3.571.749.120
+25.000.000
+173.430.507
+3.373.318.613
+BERTAHAP
+Harga Pricelist (incl. PPN)
+Booking Fee
+Down Payment
+Sisa Pembayaran
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP-1 (50%-BF)
+Pelunasan (50%)
+3.628.745.400
+25.000.000
+126.197.725
+3.477.547.675
+4.445.806.262
+25.000.000
+2.197.903.131
+2.222.903.131
+BERTAHAP
+Harga Pricelist (incl. PPN)
+Booking Fee
+Down Payment
+Sisa Pembayaran
+Angsuran
+4.479.402.780
+25.000.000
+422.940.278
+4.031.462.502
+Harga Pricelist (incl. PPN)
+Booking Fee
+DP (10%-BF)
+Plafon KPR
+4.729.581.240
+25.000.000
+172.065.885
+4.532.515.355
+4.583.305.440
+25.000.000
+356.942.120
+4.201.363.320
+4.655.295.600
+25.000.000
+233.627.533
+4.396.668.067
+

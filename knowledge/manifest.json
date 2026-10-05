@@ -1,0 +1,32 @@
+{
+  "project_name": "The Mutiara Bogor",
+  "tagline": "27ha Prime Location in Bogor — Exit Tol 42 Bogor Selatan, 11 menit ke Kebun Raya Bogor",
+  "documents": [
+    {
+      "path": "TMB PK Konsumen Jun26-compressed.txt",
+      "purpose": "Pricelist, tipe unit, spesifikasi, promo, subsidi KPR, simulated cicilan"
+    },
+    {
+      "path": "TMB Simulasi 26jun26.txt",
+      "purpose": "Simulasi pembayaran cash keras dan KPR per tipe unit"
+    },
+    {
+      "path": "Draft_PL_T3_Pinehill_23.6.26 (1).txt",
+      "purpose": "Price list detail per block/unit, cara bayar, catatan penting, exclude/include"
+    },
+    {
+      "path": "product-positioning-visit.md",
+      "purpose": "Positioning yang disetujui untuk tiap tipe unit, aset visit yang dapat dilihat, dan Instagram resmi"
+    },
+    {
+      "path": "payment-options-approved.md",
+      "purpose": "Cara bayar yang disetujui: cash keras, cash bertahap, KPR Express, dan KPR DP 0%"
+    }
+  ],
+  "links": [
+    {
+      "url": "https://maps.app.goo.gl/QkJ1iaQKoEkP7WAEA",
+      "purpose": "Lokasi The Mutiara Bogor — Google Maps"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# Runtime data and personal data
+inbox/
+sessions/
+logs/
+backups/
+
+# Generated artifacts and local state
+graphify-out/
+__pycache__/
+.pytest_cache/
+.hermes/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Generated reporting data
+ig_laporan_*.md

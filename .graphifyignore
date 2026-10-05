@@ -1,0 +1,9 @@
+# Runtime customer/session data is not architecture knowledge.
+sessions/
+inbox/
+logs/
+__pycache__/
+
+# Graphify generated artifacts and project-local agent guidance.
+graphify-out/
+.hermes/
